@@ -1,0 +1,16 @@
+city,role,experience_years,salary_chf
+Zurich,Junior ML Engineer,0,90000
+Zurich,Data Scientist,1,98000
+Zurich,AI Engineer,2,115000
+Basel,Junior ML Engineer,0,85000
+Basel,Data Scientist,1,92000
+Basel,AI Engineer,2,108000
+Geneva,Junior ML Engineer,0,86000
+Geneva,Data Scientist,1,95000
+Geneva,AI Engineer,2,110000
+Lausanne,Junior ML Engineer,0,82000
+Lausanne,Data Scientist,1,90000
+Lausanne,AI Engineer,2,104000
+Bern,Junior ML Engineer,0,80000
+Bern,Data Scientist,1,88000
+Bern,AI Engineer,2,102000
