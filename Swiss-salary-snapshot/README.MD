@@ -1,6 +1,6 @@
-# Swiss Salary Snapshot (Python Mini Project)
+salary-data-analysis (
 
-This is a beginner-friendly Python project to analyze salary trends in Switzerland.
+This is a beginner-friendly Python project to analyze salary trends .
 
 ## What this project does
 - Loads salary data from a CSV file
